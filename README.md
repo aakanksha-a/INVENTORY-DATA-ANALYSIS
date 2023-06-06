@@ -3,17 +3,14 @@ Collected and cleansed structured and unstructured data, and used various algori
 
 Links for dataset:
 
-    # Dataset 1 (A, B, C): https://colab.research.google.com/drive/178zuPC3HU4-jfiC-tPBkIrOrP15AaypR
-    # Dataset 1 (D, E): https://colab.research.google.com/drive/1O7p15l4r7dvfPUTKuI7Yi2LYM1owWip_?usp=sharing
-    # Dataset 2 Tableau: https://public.tableau.com/app/profile/yash.thakur7671
+    # Dataset 1 (Data Exploration, Exploratory Data Analysis(EDA), Data Preprocessing, Data Manipulation, Feature Selection, Predictive Modelling, ARIMA Model): https://colab.research.google.com/drive/1wJcJVGaJHn8BKfKGlExgnkSgqAdhI1dS?usp=sharing
+    # Dataset 1 (Ensemble Model, RNN, CNN): https://colab.research.google.com/drive/1i5bHhqcvuGCt-8KDM_OP8XJuSKi_6GMQ?usp=sharing
     
 ![data_analysis ](https://github.com/aakanksha-a/INVENTORY-DATA-ANALYSIS/assets/116039963/0bf0c983-4e81-487e-aa39-9a3172835a91)
 
 ![pic2](https://github.com/aakanksha-a/INVENTORY-DATA-ANALYSIS/assets/116039963/fde10966-6a58-46dc-b861-74c3b410b3af)
 
 ![pic3](https://github.com/aakanksha-a/INVENTORY-DATA-ANALYSIS/assets/116039963/ae7427da-9021-460b-b7a6-6d754893c038)
-
-![pic4](https://github.com/aakanksha-a/INVENTORY-DATA-ANALYSIS/assets/116039963/3b81b8d6-472c-4272-9e2a-fc54351284e8)
 
 ![pic5](https://github.com/aakanksha-a/INVENTORY-DATA-ANALYSIS/assets/116039963/fe2ebbd0-b9bb-4eb1-831f-a678a959118d)
 
