@@ -3,8 +3,9 @@ Collected and cleansed structured and unstructured data, and used various algori
 
 Links for dataset:
 
-Dataset 1 (Data Exploration, Exploratory Data Analysis(EDA), Data Preprocessing, Data Manipulation, Feature Selection, Predictive Modelling, ARIMA Model): https://colab.research.google.com/drive/1wJcJVGaJHn8BKfKGlExgnkSgqAdhI1dS?usp=sharing
-Dataset 1 (Ensemble Model, RNN, CNN): https://colab.research.google.com/drive/1i5bHhqcvuGCt-8KDM_OP8XJuSKi_6GMQ?usp=sharing
+Dataset sprint 1&2 (Data Exploration, Exploratory Data Analysis(EDA), Data Preprocessing, Data Manipulation, Feature Selection, Predictive Modelling, ARIMA Model): https://colab.research.google.com/drive/1wJcJVGaJHn8BKfKGlExgnkSgqAdhI1dS?usp=sharing
+
+Dataset Sprint 3 (Ensemble Model, RNN, CNN): https://colab.research.google.com/drive/1i5bHhqcvuGCt-8KDM_OP8XJuSKi_6GMQ?usp=sharing
     
 ![data_analysis ](https://github.com/aakanksha-a/INVENTORY-DATA-ANALYSIS/assets/116039963/0bf0c983-4e81-487e-aa39-9a3172835a91)
 
